@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 
-Experienced professional specializing in **end-to-end program and project execution**, with a strong foundation in **data-driven decision-making**, and **process optimization**. I translate complex project requirements into structured, scalable delivery frameworks — aligning cross-functional teams, managing risk and dependencies, and driving measurable outcomes across timelines and budgets.
+**Project Manager** experienced in managing **electrical and hardware projects** across engineering, procurement, and manufacturing teams. Improved delivery timelines by **15%** through structured planning and execution, with experience supporting **technical product development** and **semiconductor programs** from concept through release.
 
 With hands-on experience spanning **KPI dashboards**, **resource & schedule planning**, **vendor coordination**, and **technical systems verification**, I bring a rigorous analytical mindset to every initiative.
 
@@ -60,20 +60,20 @@ With hands-on experience spanning **KPI dashboards**, **resource & schedule plan
 **01 · Tesla Gigafactory Site Selection**
 Managed a $143K evaluation budget and developed a data-driven site selection framework analyzing land costs, energy access, labor, logistics, and risk metrics — delivered with a phased implementation plan aligned to strategic growth objectives.
 
-**02 · Energy Benefit Analysis — Portland Metro**
-Built Excel and Power BI dashboards to evaluate energy cost, performance, and availability trade-offs for city-level planning decisions.
+**02 · Dual Soft-Switch — Industrial Automation**
+Developed a cost-effective, low-power dual soft-switch system for industrial automation, including hardware design, control logic, and real-time testing.
 
-**03 · GreenMind AI PC — NPI Marketing Plan**
-Developed demand forecasting models, conducted market analysis, and provided insights for AI PC product launch and new product introduction planning.
+**03 · Low-Power Area-Efficient ALU**
+Designed a 4-bit ALU using XNOR-based full adders, reducing power usage by 50%. Implemented flexible control signals and verified correctness through simulation.
 
 **04 · Temperature Monitoring System**
 Designed and tested custom PCBs and embedded systems, developed Python-based real-time temperature monitoring with sensor integration and alert logic.
 
-**05 · Low-Power Area-Efficient ALU**
-Designed a 4-bit ALU using XNOR-based full adders, reducing power usage by 50%. Implemented flexible control signals and verified correctness through simulation.
+**05 · Energy Benefit Analysis — Portland Metro**
+Built Excel and Power BI dashboards to evaluate energy cost, performance, and availability trade-offs for city-level planning decisions.
 
-**06 · Dual Soft-Switch — Industrial Automation**
-Developed a cost-effective, low-power dual soft-switch system for industrial automation, including hardware design, control logic, and real-time testing.
+**06 · GreenMind AI PC — NPI Marketing Plan**
+Developed demand forecasting models, conducted market analysis, and provided insights for AI PC product launch and new product introduction planning.
 
 ---
 
